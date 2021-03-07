@@ -16,6 +16,17 @@
   
   * JS
 
+**Last code:**
+
+```
+const func = (num) => {  
+  if (num > 0) {  
+    return num - 1;  
+  }
+  return num + 1;  
+};  
+```
+
 **Education:** V.N. Karazin Kharkiv National University school mathematics and informatics, bachelor’s degree field of study “Mechanics” 2016
 
 **Launguages:**
